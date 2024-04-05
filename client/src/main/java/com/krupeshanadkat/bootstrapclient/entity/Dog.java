@@ -1,7 +1,7 @@
 package com.krupeshanadkat.bootstrapclient.entity;
 
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 public class Dog {
